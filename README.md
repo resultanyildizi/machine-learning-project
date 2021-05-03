@@ -4,8 +4,8 @@ This project aims to classify SMS messages as spam or non-spam. It processes the
 ## Team Members:
   * Nurettin Resul Tanyıldızı - 030117056
   * Muhammed Farmedi Tengirşek -
-  * Doğan Dinçer Demirci -
-  * Selim Gülce -
+  * Doğan Dinçer Demirci -030117058
+  * Selim Gülce - 030117062
 
 ## Dataset:
   * [Dataset link](https://archive.ics.uci.edu/ml/machine-learning-databases/00228/)
