@@ -8,7 +8,7 @@ This project aims to classify SMS messages as spam or non-spam. It processes the
   * Selim Gülce -
 
 ## Dataset:
-  * [Dataset link](https://archive.ics.uci.edu/ml/machine-learning-databases/00228/])
+  * [Dataset link](https://archive.ics.uci.edu/ml/machine-learning-databases/00228/)
 
 ## Kaggle:
   * [Kaggle Link](https://www.kaggle.com/nurettinresultanyldz/machine-learning-project-1?scriptVersionId=61696745)
