@@ -3,7 +3,7 @@ This project aims to classify SMS messages as spam or non-spam. It processes the
 
 ## Team Members:
   * Nurettin Resul Tanyıldızı - 030117056
-  * Muhammed Farmedi Tengirşek -
+  * Muhammed Farmedi Tengirşek - 030117046
   * Doğan Dinçer Demirci -030117058
   * Selim Gülce - 030117062
 
